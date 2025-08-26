@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Navbar } from './components';
-import { Home, Paints} from './pages';
-import { Routes, Route } from 'react-router';
+import { Home, Paints, Recipes } from './pages';
+import { Routes, Route} from 'react-router';
 import './App.css'
 
 function App() {
@@ -12,6 +12,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />}></Route>
         <Route path="/paints" element={<Paints />}></Route>
+        <Route path="/recipes" element={<Recipes />}></Route>
       </Routes>
     </div>
   )

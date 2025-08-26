@@ -10,6 +10,7 @@ function Navbar() {
             <ul className="nav-menu">
                 <NavLink className="nav-link" to="/">Home</NavLink>
                 <NavLink className="nav-link" to="/paints">Paints</NavLink>
+                <NavLink className="nav-link" to="/recipes">Recipes</NavLink>
             </ul>
         </div>
     </nav>

@@ -4,7 +4,7 @@ function Home() {
     return (
         <>
         <div className="page-content">
-            <p>Welcome To Formant!</p>
+            <h1>Welcome to Formant!</h1>
             <img className="home-logo" src="/Formant.png"></img>
         </div>
         </>

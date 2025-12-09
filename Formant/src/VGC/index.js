@@ -1,0 +1,93 @@
+
+//Vallejo Game Color
+/*
+Dead White
+Off-White
+Bone White
+Bleached Bone
+Ivory
+Elfic Flesh
+Pale Flesh
+Basic Skin Tone
+Skin Tone
+Elf Skin Tone
+Dark Fleshtone
+Barbarian Skin
+Bronze Flesh
+Dark Flesh
+Salmon Rose
+Rosy Flesh
+Moon Yellow
+Sun Yellow
+Gold Yellow
+Scrofulous Brown
+Vomit Brown
+Beige Red
+Leprous Brown
+Orange Fire
+Hot Orange
+Bloody Red
+Gory Red
+Scarlet Red
+Chalice Red
+Crimson
+Red Gore
+Camo Red
+Magenta
+Squid Pink
+Warlord Purple
+Purple
+Royal Purple
+Night Blue
+Ultramarine Blue
+Imperial Blue
+Magic Blue
+Electric Blue
+Azure
+Shadow Blue
+Falcon Turquoise
+Turquoise
+Scurfy Green
+Jade Green
+Foul Green
+Green Ink
+Dark Green
+Extra Opaque Heavy Green
+Sick Green
+Goblin Green
+Scorpy Green
+Lizard Green
+Snot Green
+Camo Green
+Dead Flesh
+Camo Olive Green
+Khaki
+Earth
+Desert Yellow
+Tan
+Leather Brown
+Beasty Brown
+Parasite Brown
+Gorgon Brown
+Plague Brown
+Terracotta
+Filthy Brown
+Charred Brown
+Black
+Chaos Black
+Sombre Grey
+Wolf Grey
+Stonewall Grey
+Ghost Grey
+Cold Grey
+Neutral Grey
+Gunmetal
+Chainmail
+Silver
+Polished Gold
+Gold
+Brass
+Brassy Brass
+Tinny Tin
+Copper
+*/

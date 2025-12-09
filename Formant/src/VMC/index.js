@@ -1,4 +1,4 @@
-
+//Vallejo Model Color
 const vallejoModelColorPaints = [
   ["70.951", "White", "#F6F9F8"],
   ["70.919", "Cold White", "#E2E7E8"],

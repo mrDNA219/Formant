@@ -77,17 +77,18 @@ Black
 Chaos Black
 Sombre Grey
 Wolf Grey
-Stonewall Grey
-Ghost Grey
-Cold Grey
-Neutral Grey
-Gunmetal
-Chainmail
-Silver
-Polished Gold
-Gold
-Brass
-Brassy Brass
-Tinny Tin
-Copper
 */
+
+"Stonewall Grey"
+"Ghost Grey"
+"Cold Grey" 
+"Neutral Grey" 
+"Gunmetal"
+"Chainmail"
+"Silver"
+"Polished Gold" 
+"Gold"
+"Brass"
+"Brassy Brass"
+"Tinny Tin"
+"Copper"

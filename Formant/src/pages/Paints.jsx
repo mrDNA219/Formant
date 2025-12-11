@@ -1,4 +1,5 @@
 import vallejoModelColorPaints from "../VMC";
+import vallejOGameColor from "../VGC";
 import { useState } from "react";
 
 function Paints() {
@@ -20,6 +21,18 @@ function Paints() {
             )
         })
         }
+    </div>
+    <div>
+      {
+      vallejOGameColor.map(color => {
+        return (
+          <div>
+                <input className='paint-swatch-input' name={color} type='checkbox'></input>
+                <p className='paint-swatch-name'>{color}</p>
+          </div>
+        )
+      })
+      };
     </div>
     </>
   );

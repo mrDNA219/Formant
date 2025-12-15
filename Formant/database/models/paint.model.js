@@ -1,4 +1,5 @@
 import mongoose from 'mongoose';
+
 //FORMAT FOR SINGLE PAINT
 /*
     <input className='paint-swatch-input' name={color} type='checkbox'></input>
@@ -9,23 +10,28 @@ import mongoose from 'mongoose';
 */
 
 const paintSchema = new mongoose.Schema({
-    label: {
-        type: String
-    },
-    name: {
-        type: String
-    },
-    hexCode: {
-        String
-    }
+    label: String,
+    name: String,
+    hexCode: String
 });
+
+const collectionSchema = new mongoose.Schema({
+    user: {
+        type: mongoose.Types.objectId,
+        ref: 'User',
+        required: true
+    },
+    paints: [paintSchema]
+})
 
 
 const Paint = mongoose.model('Paints', paintSchema);
+const Collection = mongoose.mode('Collection', collectionSchema);
 
-export default Paint;
-
-
+export default {
+    Paint,
+    Collection
+};
 
 
 

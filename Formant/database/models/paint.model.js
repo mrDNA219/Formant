@@ -1,5 +1,4 @@
-import { Schema } from "mongoose";
-
+import mongoose from 'mongoose';
 //FORMAT FOR SINGLE PAINT
 /*
     <input className='paint-swatch-input' name={color} type='checkbox'></input>
@@ -10,10 +9,10 @@ import { Schema } from "mongoose";
 */
 
 const paintSchema = new mongoose.Schema({
-    name: {
+    label: {
         type: String
     },
-    label: {
+    name: {
         type: String
     },
     hexCode: {
